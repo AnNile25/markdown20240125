@@ -1,6 +1,8 @@
 ### 7. 하이퍼링크
-``` [링크텍스트](링크URL) ```
-[Daum cafe](https://cafe.daum.net/pcwk/bTXq/45)
+```
+[링크텍스트](링크URL "설명")
+```  
+[Daum cafe](https://cafe.daum.net/pcwk/bTXq/45 "수업 자료 cafe")
 
 ### 6. 가로선
 화면 전체를 가로지르는 가로선 : -, *을 3개 이상
